@@ -9,6 +9,33 @@ Egy másik jelentős csoportja a hártyásszárnyúaknak a méhek. Legtöbbünkn
 
 A fent említett kérdéseknek, céloknak a megválaszolására, teljesítésére tájökológiai, molekuláris, közösségökológiai és modellezési módszereket használok.
 
+<!-- Inside the <nav> -->
+<button type="button">
+  <span>Menu</span>
+  <img
+    src=""
+    alt=""
+    width="24"
+    height="20"
+  />
+</button>
+<ul>
+  <li>
+    <a href="/about.html">
+      Főoldal
+    </a>
+  </li>
+  <li>
+    <a href="/locations.html">
+      Kutatás
+    </a>
+  </li>
+  <li>
+    <a href="/contact.html">
+      Oktatás
+    </a>
+  </li>
+</ul>
 __
 
 László Zoltán, PhD
