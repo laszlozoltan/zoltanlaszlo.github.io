@@ -10,12 +10,12 @@
     </a>
   </li>
   <li>
-    <a href="/locations.html">
+    <a href="/research.html">
       Kutatás
     </a>
   </li>
   <li>
-    <a href="/contact.html">
+    <a href="/teaching.html">
       Oktatás
     </a>
   </li>
